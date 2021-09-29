@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    background-image: linear-gradient(to right top, #d7a7f7, #a9bfff, #79d4ff, #60e4ff, #75f0f3);
+    font-size: 30px;
+
+}
+
+#welcome {
+    font-size: 40px;
+}
+
+#hobby {
+    font-size: 40px;
+    text-align: center;
+}
+
+#work {
+    font-size: 40px;
+}
+
+#inspiration {
+    font-size: 40px;
+}
+
+#contact {
+    font-size: 40px;
+}
+
+#main {
+    font-size: 70px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    left:0;
+    right: 30px;
+    cursor: pointer;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+
+}
+
+.links {
+    float: left;
+    color: ghostwhite;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    font-family: Fantasy;
+    font-size: 15px;
+    list-style: none;
+margin-bottom:150px;
+}
